@@ -13,7 +13,7 @@ export default function Auth(){
     if(error) return alert(error.message)
   }
   return (<div className='card'>
-    <h3>MediConnect — Auth</h3>
+    <h3>Veed-Co Smart Health — Auth</h3>
     <input placeholder='Email' value={email} onChange={e=>setEmail(e.target.value)} />
     <input placeholder='Password' type='password' value={password} onChange={e=>setPassword(e.target.value)} />
     <select value={role} onChange={e=>setRole(e.target.value)}>

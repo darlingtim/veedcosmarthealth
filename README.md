@@ -1,4 +1,4 @@
-# MediConnect - Fullstack Scaffold (Minimal, Production-ready structure)
+# Veed-Co Smart Health - Fullstack Scaffold (Minimal, Production-ready structure)
 This scaffold implements core features for MediConnect, focusing on:
 - Patients creating emergency cases with geolocation
 - Ambulance operators viewing nearby emergency patients with live locations
