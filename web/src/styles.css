@@ -1,0 +1,4 @@
+body { font-family: system-ui, Arial; margin: 0; padding: 16px; background: #f6fbff; color: #0f172a; }
+.card { background: white; padding: 12px; border-radius: 8px; box-shadow: 0 2px 8px rgba(2,6,23,0.06); margin-bottom: 12px;}
+button { background:#0369a1; color:white; border:none; padding:8px 12px; border-radius:6px; cursor:pointer;}
+input, select { padding:8px; border-radius:6px; border:1px solid #e6eef6; width:100%; box-sizing:border-box; margin-bottom:8px;}

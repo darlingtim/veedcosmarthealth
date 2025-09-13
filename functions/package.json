@@ -1,0 +1,9 @@
+{
+  "name": "medi-connect-functions",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@supabase/supabase-js": "^2.26.0",
+    "axios": "^1.4.0"
+  }
+}
